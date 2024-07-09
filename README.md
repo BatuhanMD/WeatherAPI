@@ -34,7 +34,4 @@ Bu uygulama, Meteomatics API'sini kullanarak hava durumu verilerini çeker. API 
 - Seçilen şehir listede bulunmuyorsa hata mesajı gösterilir.
 - Hava durumu verileri başarıyla alınamazsa bir hata mesajı görüntülenir.
 
-## Notlar
-
-- Güvenlik amacıyla, API erişim bilgilerinizi kod içerisine hardcode olarak eklemek yerine, güvenli bir şekilde yönettiğinizden emin olun.
 
